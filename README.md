@@ -63,7 +63,7 @@
 
 ---
 
-<h1 align="center" style="color: #FF69B4;">📊 GitHub Stats</h1>
+<h1 align="center" style="color:pink;">📊 GitHub Stats</h1>
 
 <p style="text-align: center; color: black;">
   <img src="https://github-readme-stats.vercel.app/api?username=Selya1722&theme=rose_pine&hide_border=false&bg_color=ffffff&title_color=FF69B4&text_color=black&icon_color=FF69B4" alt="GitHub Stats"/><br/>
