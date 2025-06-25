@@ -67,14 +67,14 @@
 
 <p style="text-align: center; color: black;">
   <img src="https://github-readme-stats.vercel.app/api?username=Selya1722&theme=rose_pine&hide_border=false&bg_color=ffffff&title_color=FF69B4&text_color=black&icon_color=FF69B4" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Selya1722&theme=rose_pine&hide_border=false&background=ffffff&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak"/><br/>
+  <h1 align="center" style="color:pink;">📊 GitHub Streak</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selya1722&theme=rose_pine&hide_border=false&bg_color=ffffff&title_color=FF69B4&text_color=black&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Selya1722&icon=9&color=5" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/selya1722/count.svg" width="100" alt="visitor counter"/>
 </p>
 
 ---
