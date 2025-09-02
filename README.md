@@ -8,13 +8,12 @@
 <h1 align="center" style="color: #FF69B4;">💫 About Me</h1>
 
 <p style="text-align: center; color: black;">
-  🔭 I’m busy working on my portfolio, designing UX case studies for Behance, and learning all about full-stack development!<br><br>
-🕺 I’m looking for some fun collabs on web design, mobile UI/UX, or cool frontend projects!<br><br>
-🤝 I could really use some help with JavaScript and connecting my frontends to backends.<br><br>
-🌱 Right now, I’m soaking up knowledge on full-stack (React, MongoDB), advanced UX/UI, and digital marketing.<br><br>
-💬 Let’s chat about frontend dev, design tips, or Canva/Figma — I’m all ears!<br><br>
-⚡ Fun fact: I dream of driving a pink Maybach and being the most successful woman in my family!
+💻 Building my portfolio & UX case studies ✨<br>
+💃 Collabs on web & mobile design welcome!<br>
+🌱 Learning full-stack (React + MongoDB) & digital marketing 💖<br>
+⚡ Fun fact: dreaming of a pink Maybach & breaking ceilings!
 </p>
+
 
 ---
 
