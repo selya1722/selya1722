@@ -6,13 +6,14 @@
 
 ---
 <h1 align="center" style="color: #FF69B4;">💫 About Me</h1>
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
 <p style="text-align: center; color: black;">
 💻 Building my portfolio & UX case studies ✨<br>
 💃 Collabs on web & mobile design welcome!<br>
 🌱 Learning full-stack (React + MongoDB) & digital marketing 💖<br>
 ⚡ Fun fact: dreaming of a pink Maybach & breaking ceilings!
 </p>
+</div>
 
 ---
 
