@@ -14,7 +14,6 @@
 ⚡ Fun fact: dreaming of a pink Maybach & breaking ceilings!
 </p>
 
-
 ---
 
 <h1 align="center" style="color: #FF69B4;">🌐 Connect with Me</h1>
@@ -72,11 +71,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/selya1722/count.svg" width="100" alt="visitor counter"/>
-</p>
-
----
 
 <p align="center" style="color: black;">
   <b>Designed with love by Amaya Jayasekara</b>
