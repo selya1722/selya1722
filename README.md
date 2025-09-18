@@ -49,10 +49,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selya1722&show_icons=true&locale=en&layout=compact&theme=default&title_color=ff69b4&icon_color=ff69b4" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selya1722&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff69b4&icon_color=ff69b4" alt="Top Languages" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=selya1722&show_icons=true&locale=en&theme=default&title_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=selya1722&show_icons=true&locale=en&theme=radical&title_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" />
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=selya1722&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selya1722&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
 </p>
 
