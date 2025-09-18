@@ -8,12 +8,12 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selya1722&label=Profile%20views&color=ff69b4&style=flat" alt="selya1722" />
+  <img src="https://komarev.com/ghpvc/?username=selya1722&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=selya1722&theme=radical&title=Stars,Followers,Commit,Repositories,Issues" alt="selya1722" />
+    <img src="https://github-profile-trophy.vercel.app/?username=selya1722&theme=default&title=Stars,Followers,Commit,Repositories,Issues" alt="GitHub Trophies" />
   </a> 
 </p>
 
@@ -33,9 +33,9 @@
 
 ### 🤝 Connect with me  
 <p align="center">
-<a href="https://www.linkedin.com/in/amaya-1722selya/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23ff69b4.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/dewnijayasekara" target="blank"><img src="https://img.shields.io/badge/Kaggle-%23ff69b4.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://www.behance.net/amayajayasekara" target="blank"><img src="https://img.shields.io/badge/Behance-%23ff69b4.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amaya-1722selya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/dewnijayasekara" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%23FF69B4.svg?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://www.behance.net/amayajayasekara" target="_blank"><img src="https://img.shields.io/badge/Behance-%23FF69B4.svg?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
 ---
@@ -49,10 +49,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selya1722&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff69b4&icon_color=ff69b4" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selya1722&show_icons=true&locale=en&layout=compact&theme=default&title_color=ff69b4&icon_color=ff69b4" alt="Top Languages" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=selya1722&show_icons=true&locale=en&theme=radical&title_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=selya1722&show_icons=true&locale=en&theme=default&title_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" />
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=selya1722&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=selya1722&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
 </p>
+
