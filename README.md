@@ -20,11 +20,11 @@
 ---
 
 ### 💼 Work  
-- 🔭 I’m currently working on **[Business Performance Dashboard](#) → AI-powered KPIs & smart analytics 📊💖**  
+- 🔭 I’m currently working on **[Business Performance Dashboard] → AI-powered KPIs & smart analytics 📊💖**  
 - 🌱 I’m currently learning **AI app development 🤖 | MERN Stack 🌐 | UX/UI Case Study Building 🎨**  
 - 👯 I’m looking to collaborate on **Women Safety App → SOS, GPS & safe zones 🚨💜**  
 - 🤝 I’m looking for help with **UX research & case study reviews (need fresh eyes 👀)**  
-- 👨‍💻 All of my projects are available at [itsmeamaya.me](itsmeamaya.me)  
+- 👨‍💻 All of my projects are available at [itsmeamaya.me](https://www.itsmeamaya.me/)  
 - 💬 Ask me about **UX/UI design 📱💻 | React & frontend dev 🌸**  
 - 📫 Reach me at **dewjayasekara78@gmail.com**  
 - ⚡ Fun fact: **I’m dreaming of a Pink Maybach 🚗✨**  
